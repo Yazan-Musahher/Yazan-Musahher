@@ -1,6 +1,7 @@
 ### Hi there 👋, Mohamad Yazan Musahher
 #### Full stack developer
 Hi! I'm Yazan, an aspiring Data Engineering student at the University of Agder. Passionate about bridging the gap between technology and real-world applications.
+With a mindset geared towards continuous learning and adaptation, I am excited to immerse myself in challenging projects and contribute to the evolving landscape of technology.
 
 Skills: REACT/ React Native/ JS/ .Net/ Python/
 
