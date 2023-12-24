@@ -1,9 +1,8 @@
 ### Hi there 👋, Mohamad Yazan Musahher
 #### Full stack developer
-Hi Yazan From Syria, but currently living in Norway. studying data engineering at University of Agder
+Hi! I'm Yazan, an aspiring Data Engineering student at the University of Agder. Passionate about bridging the gap between technology and real-world applications.
 
-Skills: REACT/ React Native/ JS/ HTML/ CSS/
-
+Skills: REACT/ React Native/ JS/ .Net/ Python/
 
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/Yazan-Musahher)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](https://yazan-musahher.no/)  
