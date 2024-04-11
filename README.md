@@ -3,7 +3,7 @@
 Hi! I'm Yazan, an aspiring Data Engineering student at the University of Agder. Passionate about bridging the gap between technology and real-world applications.
 With a mindset geared towards continuous learning and adaptation, I am excited to immerse myself in challenging projects and contribute to the evolving landscape of technology.
 
-Skills: REACT/ React Native/ JS/ .Net/ Python/
+Skills: REACT/ React Native/ JS/ .Net/ Python/ c++/ Devops
 
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/Yazan-Musahher)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](https://yazan-musahher.no/)  
